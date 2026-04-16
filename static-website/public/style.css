@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    font-family: Arial;
+}
+
+h1 {
+    color: darkblue;
+}
+.container{
+    margin-top: 100px;
+}
